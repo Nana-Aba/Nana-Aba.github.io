@@ -67,6 +67,10 @@ a:hover, a:active, a:focus{
   .nav-link2:hover {
     color:#4cc9f0;
   }
+  #email2 {
+    font-size:13px;
+  }
+  
   #carouselExampleIndicators {
     margin-top: 10px;
   }
